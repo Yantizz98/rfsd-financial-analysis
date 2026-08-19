@@ -67,8 +67,3 @@ https://github.com/Yantizz98/rfsd-financial-analysis
 
 [[RFSD_analysis.ipynb](RFSD_analysis.ipynb)](https://colab.research.google.com/drive/1sqFF2aNNN9W8RpvtjVVN2JzIt6Wwcz5J?usp=sharing) 
 
-Для воспроизведения анализа ноутбук можно открыть в Google Colab и выполнить все ячейки командой:
-
-```text
-Runtime → Run all
-```
